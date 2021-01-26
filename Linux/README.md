@@ -154,8 +154,8 @@
   * <b><i> apt -- help </i><b>
   --> mostra os comandos mais utilizados
   
-    * <b><i> ↑ ↓ </i><b>
-  --> Teclas para cima ou para baixo: mostra as últimas coisas escritas.
+  * <b><i> ↑ ↓ </i><b>
+  --> Teclas para cima ou para baixo: mostra as últimas coisas escritas
   
   <h3 id="TextoTerminal"> Criando Arquivos de Texto pelo Terminal </h3>
   
